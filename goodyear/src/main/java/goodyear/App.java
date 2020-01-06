@@ -61,6 +61,7 @@ public final class App {
         personnes.add(new Etudiant("Tony", statut));
         personnes.add(new Etudiant("Yann", statut));
         personnes.add(new Etudiant("Alexis", statut));
+        personnes.add(new Etudiant("Myriam", statut));
     }
 
     private static void addFormateur(List<Personne> formateurs) {
